@@ -1,0 +1,6 @@
+- Fixed an installation issue introduced in last update.
+- Fixed an issue with custom uploaded video full-screen mode not being toggleable.
+- Video should now be properly toggleable on touch screens.
+- Fixed an issue with sitemap generating wrong urls for albums.
+- Fixed an issue with albums and artists sometimes not being editable in admin area.
+- Fixed some issues with SoundCloud provider.
